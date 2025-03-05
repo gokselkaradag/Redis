@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InMemoryApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a730cb935e262698ea5a9ac8aaf82baccbb1af7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("InMemoryApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InMemoryApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
