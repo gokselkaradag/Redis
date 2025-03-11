@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mRP6pHowbytQ37W6lXUUeyAYYexa9kQ/TyiYtQcGM4E=",
+  "Hash": "bn+JPk39/0SZPootFTJEZYiySQWD+j+6xH/ikg1bxoI=",
   "Source": "IDistributedCacheRedisApp.Web",
   "BasePath": "_content/IDistributedCacheRedisApp.Web",
   "Mode": "Default",
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\GKSL1\\RiderProjects\\RedisInMemory\\IDistributedCacheRedisApp.Web\\wwwroot\\ımg\\car.jpg",
+      "SourceId": "IDistributedCacheRedisApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GKSL1\\RiderProjects\\RedisInMemory\\IDistributedCacheRedisApp.Web\\wwwroot\\",
+      "BasePath": "_content/IDistributedCacheRedisApp.Web",
+      "RelativePath": "ımg/car#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zumpwsjwl0",
+      "Integrity": "+39LN6ziBDBenZVJn88ogdGi1gZzYDeehBs2bkAfOpk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ımg\\car.jpg"
     },
     {
       "Identity": "C:\\Users\\GKSL1\\RiderProjects\\RedisInMemory\\IDistributedCacheRedisApp.Web\\wwwroot\\js\\site.js",
@@ -3916,6 +3937,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-+wn2M1+vdAnqInzt4uU86f2h31KbyDBDN3AlzjANNF4="
+        }
+      ]
+    },
+    {
+      "Route": "ımg/car.jpg",
+      "AssetFile": "C:\\Users\\GKSL1\\RiderProjects\\RedisInMemory\\IDistributedCacheRedisApp.Web\\wwwroot\\ımg\\car.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+39LN6ziBDBenZVJn88ogdGi1gZzYDeehBs2bkAfOpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 11:50:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+39LN6ziBDBenZVJn88ogdGi1gZzYDeehBs2bkAfOpk="
+        }
+      ]
+    },
+    {
+      "Route": "ımg/car.zumpwsjwl0.jpg",
+      "AssetFile": "C:\\Users\\GKSL1\\RiderProjects\\RedisInMemory\\IDistributedCacheRedisApp.Web\\wwwroot\\ımg\\car.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+39LN6ziBDBenZVJn88ogdGi1gZzYDeehBs2bkAfOpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 11:50:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zumpwsjwl0"
+        },
+        {
+          "Name": "label",
+          "Value": "ımg/car.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+39LN6ziBDBenZVJn88ogdGi1gZzYDeehBs2bkAfOpk="
         }
       ]
     },

@@ -257,6 +257,10 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\GKSL1\\RiderProjects\\RedisInMemory\\IDistributedCacheRedisApp.Web\\wwwroot\\ımg\\car.jpg",
+      "PackagePath": "staticwebassets\\ımg\\car.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IDistributedCacheRedisApp.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

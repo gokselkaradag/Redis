@@ -101,3 +101,4 @@ C:\Users\GKSL1\RiderProjects\RedisInMemory\IDistributedCacheRedisApp.Web\bin\Deb
 C:\Users\GKSL1\RiderProjects\RedisInMemory\IDistributedCacheRedisApp.Web\bin\Debug\net9.0\StackExchange.Redis.dll
 C:\Users\GKSL1\RiderProjects\RedisInMemory\IDistributedCacheRedisApp.Web\obj\Debug\net9.0\IDistributedCacheRedisApp.Web.csproj.AssemblyReference.cache
 C:\Users\GKSL1\RiderProjects\RedisInMemory\IDistributedCacheRedisApp.Web\obj\Debug\net9.0\IDistrib.EA854C6A.Up2Date
+C:\Users\GKSL1\RiderProjects\RedisInMemory\IDistributedCacheRedisApp.Web\bin\Debug\net9.0\Newtonsoft.Json.dll
