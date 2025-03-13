@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IDistributedCacheRedisApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee07f73e793ee6d09c73912cbb98980b688839f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcba04c3c1ec7faec7608bb725c1a59643867142")]
 [assembly: System.Reflection.AssemblyProductAttribute("IDistributedCacheRedisApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IDistributedCacheRedisApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

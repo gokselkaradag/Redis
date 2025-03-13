@@ -96,3 +96,7 @@ C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\obj\Debug\net9.0
 C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\obj\Debug\net9.0\RedisExchangeAPI.Web.pdb
 C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\obj\Debug\net9.0\RedisExchangeAPI.Web.genruntimeconfig.cache
 C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\obj\Debug\net9.0\ref\RedisExchangeAPI.Web.dll
+C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\bin\Debug\net9.0\StackExchange.Redis.dll
+C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\obj\Debug\net9.0\RedisExchangeAPI.Web.csproj.AssemblyReference.cache
+C:\Users\GKSL1\RiderProjects\RedisInMemory\RedisExchangeAPI.Web\obj\Debug\net9.0\RedisExc.A1D66792.Up2Date

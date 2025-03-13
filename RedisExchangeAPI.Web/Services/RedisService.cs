@@ -12,7 +12,8 @@ public class RedisService
     public RedisService(IConfiguration configuration) // Redis bağlantı bilgilerini al
     {
         _redisHost = configuration["Redis:Host"];
-        _redisPort = configuration["Redis:Port"];    
+        _redisPort = configuration["Redis:Port"];
+        Connect();
     }
     
     public void Connect() // Redis bağlantısını yap
@@ -24,6 +25,10 @@ public class RedisService
 
     public IDatabase GetDb(int db) // Redis veritabanını seç
     {
+        if (_redis == null)
+        {
+            Connect(); // Bağlantı yoksa bağlantıyı yap
+        }
         return _redis.GetDatabase(db);
     }
 }
